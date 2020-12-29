@@ -1,12 +1,12 @@
 ---
 template: ServicesPage
 slug: services
-title: Services Page
+title: Engineering Services
 featuredImage: 'https://static.onecms.io/wp-content/uploads/sites/28/2017/05/blue0517.jpg'
 meta:
   title: Services
 section1: >-
-  ## Services
+  ## Engineering Services
 
   We offer:
 

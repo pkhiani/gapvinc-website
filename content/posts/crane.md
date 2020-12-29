@@ -1,9 +1,9 @@
 ---
 template: SinglePost
-title: Crane Supply
+title: Crane Valve
 status: Featured / Published
 date: '2020-12-21'
-featuredImage: ../images/p_vh_rv_powell.jpg
+featuredImage: ../images/p_vh_swastika.jpg
 
 categories:
   - category: History

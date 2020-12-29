@@ -81,7 +81,7 @@ class Form extends React.Component {
                 name="firstname"
                 required
               />
-              <span>Firstname</span>
+              <span>First name</span>
             </label>
             <label className="Form--Label">
               <input
@@ -91,7 +91,7 @@ class Form extends React.Component {
                 name="lastname"
                 required
               />
-              <span>Lastname</span>
+              <span>Last name</span>
             </label>
           </div>
           
@@ -117,6 +117,7 @@ class Form extends React.Component {
               </option>
               <option>Consulting Services</option>
               <option>Training Services</option>
+              <option>Access to publications</option>
               <option>Additional information</option>
             </select>
           </label>
