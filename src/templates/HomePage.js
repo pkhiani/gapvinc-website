@@ -18,6 +18,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
     <section className="section">
       <div className="container">
         <Content source={body} />
+        <button onclick="window.location.href='https://www.gapvinc.com/contact/';">Please Contact Us Here</button>
       </div>
     </section>
   </main>
