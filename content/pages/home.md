@@ -2,7 +2,8 @@
 template: HomePage
 slug: ''
 title: GAPV INC
-featuredImage: 'https://static.onecms.io/wp-content/uploads/sites/28/2017/05/blue0517.jpg'
+subtitle: Valve Engineering and Risk Assesments
+featuredImage: 'https://gapvinc.files.wordpress.com/2021/02/img_1675.jpg'
 ---
 
 # About Us

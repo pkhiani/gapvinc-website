@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import '../components/Form.css'
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
@@ -17,10 +18,14 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
 
     <section className="section">
       <div className="container">
-        <Content source={body} />
-        <button onclick="window.location.href='https://www.gapvinc.com/contact/';">Please Contact Us Here</button>
+        <Content source={body} />    
+        <form action="https://www.gapvinc.com/contact/">
+          <input type="submit" value="Contact us here" className="Button Form--SubmitButton"/>
+        </form>
       </div>
+      
     </section>
+    
   </main>
 )
 
