@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Page
-featuredImage: 'https://static.onecms.io/wp-content/uploads/sites/28/2017/05/blue0517.jpg'
+featuredImage: 'https://gapvinc.files.wordpress.com/2021/02/img_1675.jpg'
 address: 'Calgary, AB, Canada'
 email: gapvinc1@gmail.com
 locations:
