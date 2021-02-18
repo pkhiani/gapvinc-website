@@ -74,7 +74,7 @@ meta:
 - Current and Future Electrification Trends for Construction and Mining
 - Energy Management Solutions: Pharma/BioPharma
 - Plant construction and piping layout
-- Flow Control procurement
+- Flow Control products & procurement
 - Chemical Plant Operations
 - Storage Tank Industry
 - EPma (Engineering and Procurement Management Assistance) in the Energy Sector
@@ -116,5 +116,21 @@ meta:
 - EPC contractor in industrial automation space
 - Enterprise, resource planning – energy industry
 - Land Reclamation/ Restoration & Pipeline Services
-
+- Crane Industries
+- Power Plant Operations
+- API Development Tools
+- Pipeline Infrastructure Services
+- Industrial/Commercial Refrigeration
+- Steel Sourcing Strategies 
+- Asset Integrity of buildings & warehouses
+- Petrochemical complexes & refineries 
+- FEED or Pre-FEED Competition
+- Fugitive Emissions & Leak Management in O&G
+- Workforce Management Software
+- Asset Integrity of Commercial Spaces
+- Digital Solutions Users - Oil Field Services (well/field management)
+- LDAR in US midstream O&G
+- Leak Detection and Repair Industry
+- Engineering, Procurement & Construction (EPC) sustainability strategy
+- Digital Initiatives for Engineering Consulting
 

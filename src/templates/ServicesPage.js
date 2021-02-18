@@ -39,7 +39,7 @@ export const ServicesPageTemplate = ({
     
     <section className="section">
       <div className="container">
-        <h2>Gallery</h2>
+        <h2>Industry Participation</h2>
         <Gallery images={gallery} />
       </div>
     </section>

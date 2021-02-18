@@ -1,8 +1,8 @@
 ---
 template: SinglePost
-title: Britleness in Carbon
+title: Mining & Mettalurgy 
 status: Featured / Published
-date: '2019-04-10'
+date: '2019-03-08'
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
 
 categories:
