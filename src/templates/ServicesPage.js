@@ -25,6 +25,9 @@ export const ServicesPageTemplate = ({
     <section className="section">
       <div className="container">
         <Content source={section1} />
+        <form action="https://www.gapvinc.com/contact/">
+          <input type="submit" value="Contact us here" className="Button Form--SubmitButton"/>
+        </form>
       </div>
     </section>
 

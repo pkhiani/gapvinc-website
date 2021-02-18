@@ -6,12 +6,8 @@ featuredImage: 'https://gapvinc.files.wordpress.com/2021/02/img_1675.jpg'
 meta:
   title: Services
 section1: >-
-  ## Engineering Services
 
-  We offer:
-
-
-  [Valve Engineering Consulting & Engineering Assessments:]()
+  ### Valve Engineering Consulting & Engineering Assessments
 
   - Walkdowns to assess plant efficiency with proven ability to improve bottom line by Cost/Time savings in startup commissioning with safety first.
 
@@ -27,7 +23,7 @@ section1: >-
   Consulting to qualification, certifications per industry standards such as API, ASME, PIP, NACE, ISO, GHOST etc.
 
 
-  [Professional Development Engineering Training]()
+  ### Professional Development Engineering Training
 
   - As Fellow-Valves, our knowledge in Industry practices and codes meets or exceeds with our peer group and have experience in offering trainings that are supported by industry experts in most applications. Our training courses are tailored to audience such as engineers, technicians, operations, reliability, EHS, HSE and management.
 
@@ -44,11 +40,11 @@ accordion:
 gallery:
   - alt: fugitive emissions
     image: https://gapvinc.files.wordpress.com/2019/05/gobind-3.jpg?w=1000&h=
-    title: Fugitive Emissions
+    title: 
   - alt: apega
     image: https://gapvinc.files.wordpress.com/2019/05/img_3062.jpg?w=1000&h=
-    title: Apega
+    title:
   - alt: panel
     image: https://gapvinc.files.wordpress.com/2019/06/501a1683.jpg?w=1200&h=
-    title: Valve World Panel
+    title: 
 ---
