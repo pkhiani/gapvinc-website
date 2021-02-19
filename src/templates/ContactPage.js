@@ -1,6 +1,6 @@
 import React from 'react'
-import { MapPin, Mail } from 'react-feather'
-import { graphql } from 'gatsby'
+import { MapPin, Mail, Smartphone } from 'react-feather'
+//import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
 import FormSimpleAjax from '../components/FormSimpleAjax'
@@ -16,6 +16,7 @@ export const ContactPageTemplate = ({
   subtitle,
   featuredImage,
   address,
+  phone,
   email,
   locations
 }) => (
@@ -42,11 +43,17 @@ export const ContactPageTemplate = ({
                 <MapPin /> {address}
               </a>
             )}
+            {phone && (
+              <a className="Contact--Details--Item" href={`tel:${phone}`}>
+                <Smartphone /> {phone}
+              </a>
+            )}
             {email && (
               <a className="Contact--Details--Item" href={`mailto:${email}`}>
                 <Mail /> {email}
               </a>
             )}
+             
           </div>
         </div>
 
@@ -82,6 +89,7 @@ export const pageQuery = graphql`
         subtitle
         featuredImage
         address
+        phone
         email
         locations {
           mapLink

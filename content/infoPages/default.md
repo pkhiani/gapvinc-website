@@ -19,11 +19,17 @@ meta:
 
 **5.** `Tytec LP consulting for Pembina Piglauncher stations`
 
-**6.** `Ernst & Young consulting for Engineering Assessment Z662-15, TransMountain Corporation`
+**6.** `Ernst & Young consulting for Engineering Assessment Z662-15, Canada Development Investment Corporation (TMEP)`
 
 **7.** `Saguaro Resources consulting for Critical Service Valves`
 
 **8.** `Consulting for NWR Partnership, Husky Refinery, Suncor Energy, CNRL on Severe/Critical Service Valves and associated piping (selection, sizing, and materials)`
+
+![](../images/EY.png) 
+
+
+
+![](../images/EY1.PNG)
 
 # Other Projects
 
