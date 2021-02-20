@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Page
-featuredImage: 'https://gapvinc.files.wordpress.com/2021/02/img_1675.jpg'
+featuredImage: 'https://gapvinc.files.wordpress.com/2019/05/img_5410.jpg?'
 address: 'Calgary, AB, Canada'
 phone: '+1 (403) 850-6982'
 email: gapvinc1@gmail.com

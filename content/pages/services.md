@@ -2,7 +2,7 @@
 template: ServicesPage
 slug: services
 title: Engineering Services
-featuredImage: 'https://gapvinc.files.wordpress.com/2021/02/img_1675.jpg'
+featuredImage: 'https://gapvinc.files.wordpress.com/2019/05/img_1665.jpg?'
 meta:
   title: Services
 section1: >-

@@ -9,12 +9,17 @@ categories:
   - category: Library
 meta:
   canonicalLink: ''
-  description: Vogt
+  description: Materials Engineering
   noindex: false
-  title: Vogt
+  title: Materials Engineering
 ---
+- Brittleness in Carbon Steels
+- A case study on casting weld repairs
+- Castings: An Introduction and requirements in review of valve casting manufacturers
+- Frequently asked questions for the Valve Industry
+- Case study on casting weld repairs
 
-[Please contact via email to request to view this article](https://gapvinc.com/contact)
+[Please contact via email to request to view these articles](https://gapvinc.com/contact)
 
 
 
