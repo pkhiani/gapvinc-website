@@ -7,7 +7,7 @@ meta:
   title: Services
 section1: >-
 
-  ### Valve Engineering Consulting & Engineering Risk Assessments
+  ### Valve Engineering Consulting, Emissions Management & Engineering Risk Assessments
 
   - Walkdowns to assess plant efficiency with proven ability to improve bottom line by Cost/Time savings in startup commissioning with safety first.
 
@@ -34,10 +34,10 @@ section1: >-
 accordion:
   - description: Together with industry we are your one stop engineering consulting shop for valves, piping, PSV’s, relief systems, instrument and valve solutions to your plants in providing consulting to start-up services, commissioning, troubleshooting, diagnostic and calibration.  
     title: Consulting
-  - description: Topics include Selection, sizing, and applications for control and isolation valves, and actuators and related equipment, Valve selection, design and installation in modularization, Control Valves, PED and ATEX Directives, Safety Integrity Levels in Valves, Safety Valves 101 Valves 101 (Valve Basics) and 201 (Advanced Valves and Actuators) Pressure Seal Valves 101 (Basics and hands-on understanding to pressure seal design and application requirements), and many more. Please inquire for more information
-    title: Training
   - description: 
     title: Emissions Management
+  - description: Topics include Selection, sizing, and applications for control and isolation valves, and actuators and related equipment, Valve selection, design and installation in modularization, Control Valves, PED and ATEX Directives, Safety Integrity Levels in Valves, Safety Valves 101 Valves 101 (Valve Basics) and 201 (Advanced Valves and Actuators) Pressure Seal Valves 101 (Basics and hands-on understanding to pressure seal design and application requirements), and many more. Please inquire for more information
+    title: Training
 
 gallery:
   - alt: fugitive emissions

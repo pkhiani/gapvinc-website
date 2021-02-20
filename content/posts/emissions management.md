@@ -6,7 +6,7 @@ date: '2019-04-05'
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
 
 categories:
-  - category: Library
+  - category: Publications
 meta:
   canonicalLink: ''
   description: Emissions Management

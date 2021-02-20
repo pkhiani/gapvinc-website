@@ -9,21 +9,19 @@ meta:
 
 ## Experience
 
-- Valve consultant for Enbridge Inc., over 9+ years
+- Asset Integrity, Operations Engineering & Valve Consultant for Enbridge Inc., over 9+ years
 
-- Wood Group consulting for ICP project for Syncrude/Suncor
+- Wood Group consulting for ICP project for Syncrude/Suncor, Fort Hills Suncor JV Tailings Development & KinderMorgan Standards Updates
 
-- Wood Group consulting for Fort Hills Suncor JV Tailings Development
+- Sentio Engineering consulting for TideWater Midstream Relief Systems, Emmissions & Risk Assesements 
 
-- Sentio Engineering consulting for TideWater Midstream Relief Systems
-
-- Tytec LP consulting for Pembina Piglauncher stations
+- Tytec LP consulting for Pembina Piglauncher stations, Burried Valve Program for CBU and OBU & Bellows Engineering Assesements 
 
 - Ernst & Young consulting for Engineering Assessment Z662-15, Canada Development Investment Corporation (TMEP)
 
-- Saguaro Resources consulting for Critical Service Valves
+- Saguaro Resources consulting for Critical Service Valves & Plant Reliability Reviews 
 
-- Consulting for NWR Partnership, Husky Refinery, Suncor Energy, CNRL on Severe/Critical Service Valves and associated piping (selection, sizing, and materials)
+- Consulting for NWR Partnership, Husky Refinery, Suncor Energy & CNRL on Severe/Critical Service Valves and associated piping (selection, sizing, and materials)
 
 ![](../images/EY.png) 
 
@@ -39,6 +37,7 @@ meta:
 - Asset Integrity of Commercial Spaces
 - Asset Integrity of buildings & warehouses
 - Calcium chloride application in oil & gas
+- Canadian Crude Exports | Rail/Pipelines 
 - Carbon filtration/ players such as Jacobi, Chemviron, Desotec, Cabot etc. in Belgium, Germany and France, O&G sustainability OR asset operations
 - Chemical Plant Operations
 - Commercial architectural coating market in North America
