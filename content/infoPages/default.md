@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: experience
 title: Experience
-featuredImage: 'https://gapvinc.files.wordpress.com/2019/05/img_1660.jpg?'
+featuredImage: 'https://gapvinc.files.wordpress.com/2021/02/experience.jpg?'
 meta:
   title: Experience
 ---
