@@ -24,6 +24,7 @@ meta:
 - Part 8 - AIMs-Layout and Management of Piping and Valves Around Crude Oil Tanks in Seismic Zone
 - Part 9 - AIMs-Severe Service Valves in Sulfur Service
 - Part 10 - AIMs – Stress Analysis Methods for Buried Pipelines
+- Part 11 - AIMs - Inspection Requirements of Fire Protection Equipment on Oil and Gas Plants, Pipelines and Facilities
 - AIMS: Opportunities and challenges in safety and integrity levels
 
 
