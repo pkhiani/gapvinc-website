@@ -24,6 +24,7 @@ meta:
 - Specific Pump & Valve Features Serve Liquefied Natural Gas Applications
 - Liquefied Natural Gas boom in North America - Why? Back to basics
 - LNG Cryogenic valves 101
+- [April 2021 LNG Industry](https://bit.ly/3mODBpq)
 
 [Please contact via email to request to view these articles](https://gapvinc.com/contact)
 
