@@ -4,17 +4,13 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
-import Accordion from '../components/Accordion'
-import Gallery from '../components/Gallery'
 
 // Export Template for use in CMS preview
 export const ServicesPageTemplate = ({
   title,
   subtitle,
   featuredImage,
-  section1,
-  accordion,
-  gallery
+  section1
 }) => (
   <main>
     <PageHeader
@@ -22,25 +18,13 @@ export const ServicesPageTemplate = ({
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
+
     <section className="section">
       <div className="container">
         <Content source={section1} />
         <form action="https://www.gapvinc.com/contact/">
           <input type="submit" value="Contact us here" className="Button Form--SubmitButton"/>
         </form>
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <Accordion items={accordion} />
-      </div>
-    </section>
-    
-    <section className="section">
-      <div className="container">
-        <h2>Industry Participation</h2>
-        <Gallery images={gallery} />
       </div>
     </section>
 
@@ -70,10 +54,7 @@ export const pageQuery = graphql`
         subtitle
         featuredImage
         section1
-        accordion {
-          title
-          description
-        }
+        
       }
     }
   }
