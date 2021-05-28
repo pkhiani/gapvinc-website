@@ -25,8 +25,6 @@ meta:
 
 ![](../images/EY.png) 
 
-
-
 ![](../images/EY1.PNG)
 
 # Other Projects

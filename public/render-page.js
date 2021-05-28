@@ -1,12 +1,12 @@
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
-		module.exports = factory(require("C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\@reach\\router\\index.js"), require("C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\common-tags\\lib\\index.js"), require("fs"), require("C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\lodash\\merge.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
+		module.exports = factory(require("C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\@reach\\router\\index.js"), require("C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\common-tags\\lib\\index.js"), require("fs"), require("C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\lodash\\merge.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
 	else if(typeof define === 'function' && define.amd)
-		define("lib", ["C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\@reach\\router\\index.js", "C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\common-tags\\lib\\index.js", "fs", "C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\lodash\\merge.js", "path", "react", "react-dom/server", "react-helmet"], factory);
+		define("lib", ["C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\@reach\\router\\index.js", "C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\common-tags\\lib\\index.js", "fs", "C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\lodash\\merge.js", "path", "react", "react-dom/server", "react-helmet"], factory);
 	else if(typeof exports === 'object')
-		exports["lib"] = factory(require("C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\@reach\\router\\index.js"), require("C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\common-tags\\lib\\index.js"), require("fs"), require("C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\lodash\\merge.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
+		exports["lib"] = factory(require("C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\@reach\\router\\index.js"), require("C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\common-tags\\lib\\index.js"), require("fs"), require("C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\lodash\\merge.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
 	else
-		root["lib"] = factory(root["C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\@reach\\router\\index.js"], root["C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\common-tags\\lib\\index.js"], root["fs"], root["C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\lodash\\merge.js"], root["path"], root["react"], root["react-dom/server"], root["react-helmet"]);
+		root["lib"] = factory(root["C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\@reach\\router\\index.js"], root["C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\common-tags\\lib\\index.js"], root["fs"], root["C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\lodash\\merge.js"], root["path"], root["react"], root["react-dom/server"], root["react-helmet"]);
 })(this, function(__WEBPACK_EXTERNAL_MODULE__reach_router__, __WEBPACK_EXTERNAL_MODULE_common_tags__, __WEBPACK_EXTERNAL_MODULE_fs__, __WEBPACK_EXTERNAL_MODULE_lodash_merge__, __WEBPACK_EXTERNAL_MODULE_path__, __WEBPACK_EXTERNAL_MODULE_react__, __WEBPACK_EXTERNAL_MODULE_react_dom_server__, __WEBPACK_EXTERNAL_MODULE_react_helmet__) {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -144,7 +144,7 @@ var plugins = [{
     "background_color": "#00C2BD",
     "theme_color": "#00C2BD",
     "display": "standalone",
-    "icon": "C:\\Users\\pavan\\Desktop\\gapvinc-website/static/images/logo.png",
+    "icon": "C:\\Users\\Pavan\\Desktop\\gapvinc-website/static/images/logo.png",
     "legacy": true,
     "theme_color_in_head": true,
     "cache_busting_mode": "query",
@@ -32710,7 +32710,7 @@ if (false) {} else {
 
 /***/ "@reach/router":
 /*!*****************************************************************************************************!*\
-  !*** external "C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\@reach\\router\\index.js" ***!
+  !*** external "C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\@reach\\router\\index.js" ***!
   \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -32721,7 +32721,7 @@ module.exports = __WEBPACK_EXTERNAL_MODULE__reach_router__;
 
 /***/ "common-tags":
 /*!*******************************************************************************************************!*\
-  !*** external "C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\common-tags\\lib\\index.js" ***!
+  !*** external "C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\common-tags\\lib\\index.js" ***!
   \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -32743,7 +32743,7 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_fs__;
 
 /***/ "lodash/merge":
 /*!*********************************************************************************************!*\
-  !*** external "C:\\Users\\pavan\\Desktop\\gapvinc-website\\node_modules\\lodash\\merge.js" ***!
+  !*** external "C:\\Users\\Pavan\\Desktop\\gapvinc-website\\node_modules\\lodash\\merge.js" ***!
   \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {

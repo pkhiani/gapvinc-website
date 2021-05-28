@@ -1,7 +1,7 @@
 ---
 template: ServicesPage
 slug: training
-title: Engineering Services
+title: Training Services
 featuredImage: 'https://gapvinc.files.wordpress.com/2021/02/engineering-sevices.png?'
 meta:
   title: Training

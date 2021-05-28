@@ -1,7 +1,7 @@
 ---
 template: ServicesPage
 slug: consulting
-title: Engineering Services
+title: Consulting Services
 featuredImage: 'https://gapvinc.files.wordpress.com/2021/02/engineering-sevices.png?'
 meta:
   title: Consulting

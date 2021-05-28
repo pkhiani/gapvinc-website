@@ -1,17 +1,17 @@
 var plugins = [{
-      plugin: require('C:/Users/pavan/Desktop/gapvinc-website/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('C:/Users/Pavan/Desktop/gapvinc-website/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/pavan/Desktop/gapvinc-website/node_modules/gatsby-plugin-google-tagmanager/gatsby-ssr'),
+      plugin: require('C:/Users/Pavan/Desktop/gapvinc-website/node_modules/gatsby-plugin-google-tagmanager/gatsby-ssr'),
       options: {"plugins":[],"id":"GTM-P4RNF8D","includeInDevelopment":false,"defaultDataLayer":null,"routeChangeEventName":"gatsby-route-change"},
     },{
-      plugin: require('C:/Users/pavan/Desktop/gapvinc-website/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('C:/Users/Pavan/Desktop/gapvinc-website/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[],"runtimeCaching":[{"urlPattern":{},"handler":"cacheFirst"},{"urlPattern":{},"handler":"staleWhileRevalidate"},{"urlPattern":{},"handler":"staleWhileRevalidate"}],"skipWaiting":true,"clientsClaim":true},
     },{
-      plugin: require('C:/Users/pavan/Desktop/gapvinc-website/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"gapv inc","short_name":"gapv inc","start_url":"/","background_color":"#00C2BD","theme_color":"#00C2BD","display":"standalone","icon":"C:\\Users\\pavan\\Desktop\\gapvinc-website/static/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"d96b12616d3c2847fe82a8c8c2fcca23"},
+      plugin: require('C:/Users/Pavan/Desktop/gapvinc-website/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      options: {"plugins":[],"name":"gapv inc","short_name":"gapv inc","start_url":"/","background_color":"#00C2BD","theme_color":"#00C2BD","display":"standalone","icon":"C:\\Users\\Pavan\\Desktop\\gapvinc-website/static/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"d96b12616d3c2847fe82a8c8c2fcca23"},
     },{
-      plugin: require('C:/Users/pavan/Desktop/gapvinc-website/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('C:/Users/Pavan/Desktop/gapvinc-website/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[],"output":"/sitemap.xml","createLinkInHead":true},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
